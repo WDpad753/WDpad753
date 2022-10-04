@@ -9,10 +9,11 @@
  ### [Medium Blog](https://medium.com/@MMA611)  |  [LinkedIn](https://uk.linkedin.com/in/mohamed-mohamed-ahmed-b711a7127) | [Portfolio](https://mmaengtech.wixsite.com/mmaengtech.)
 
 
-## GitHub Stats
+## GitHub Stats:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=WDpad753&theme=highcontrast&show_icons=true&count_private=true)
 
-
+## GitHub Programming Languages used:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WDpad753)
 
 
 

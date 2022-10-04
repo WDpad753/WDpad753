@@ -14,8 +14,10 @@
 
 ## GitHub Stats and programming languages:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=WDpad753&theme=gradient&show_icons=true&count_private=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=WDpad753)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WDpad753)"
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WDpad753)
 
 
 <!---

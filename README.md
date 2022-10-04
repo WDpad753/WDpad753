@@ -1,3 +1,4 @@
+<img align="right" width="250" height="250" src="https://static.wixstatic.com/media/69e010_8487b18c01744d67b7538514b00252f3~mv2.gif"></a>
 ## Welcome to my GitHub Profile:
 - 👋 Hi, I’m @WDpad753.
 - 👀 I’m interested in learning new programming languages and to be involved in challenging and interesting projects.

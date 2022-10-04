@@ -1,3 +1,5 @@
+
+
 ## Welcome to my GitHub Profile:
 - 👋 Hi, I’m @WDpad753.
 - 👀 I’m interested in learning new programming languages and to be involved in challenging and interesting projects.
@@ -14,8 +16,6 @@
 
 ## GitHub Programming Languages used:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WDpad753)
-
-![Profile Views](https://komarev.com/ghpvc/?username=WDpad753)
 
 <!---
 WDpad753/WDpad753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

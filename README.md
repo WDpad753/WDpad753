@@ -13,7 +13,7 @@
 |:---:|:---:|
 
 ## GitHub Stats and programming languages:
-<img align="right" width="1080" height="300" src="https://user-images.githubusercontent.com/66917039/193829831-e79033c4-da05-40bb-ac67-a79cda59822b.png">
+<img align="right" width="980" height="300" src="https://user-images.githubusercontent.com/66917039/193829831-e79033c4-da05-40bb-ac67-a79cda59822b.png">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=WDpad753&theme=gradient&show_icons=true&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=WDpad753)

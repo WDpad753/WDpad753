@@ -18,7 +18,9 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=WDpad753)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WDpad753)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WDpad753&layout=compact)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=WDpad753&theme=discord)
 
 
 <!---

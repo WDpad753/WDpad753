@@ -1,5 +1,7 @@
+![image](https://user-images.githubusercontent.com/66917039/195938431-cfb477e3-0b97-4839-8823-300a66fc47a3.png)
+
 <img align="right" width="250" height="250" src="https://static.wixstatic.com/media/69e010_8487b18c01744d67b7538514b00252f3~mv2.gif"></a>
-## Welcome to my GitHub Profile:
+## Introduction:
 - 👋 Hi, I’m @WDpad753.
 - 👀 I’m interested in learning new programming languages and to be involved in challenging and interesting projects.
 - 🌱 I’m currently learning programming languages that are used for web design.

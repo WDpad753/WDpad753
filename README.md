@@ -24,6 +24,9 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=WDpad753&theme=discord)
 
+![Stats](https://gists-readme.yizack.com/api?user=WDpad753)
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/WDpad753&title=People Visit)
 
 <!---
 WDpad753/WDpad753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

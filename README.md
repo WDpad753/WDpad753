@@ -1,4 +1,7 @@
-![image](https://user-images.githubusercontent.com/66917039/195938431-cfb477e3-0b97-4839-8823-300a66fc47a3.png)
+<p align="center">
+  <img height="350" src="https://user-images.githubusercontent.com/66917039/197783648-0cca2751-5b73-41ec-8b12-1b0e3bfd5573.gif">
+</p>
+
 
 <img align="right" width="250" height="250" src="https://static.wixstatic.com/media/69e010_8487b18c01744d67b7538514b00252f3~mv2.gif"></a>
 ## Introduction:

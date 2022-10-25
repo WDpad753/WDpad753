@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate and working in various, multidisciplinary and challenging projects.
 
 ## Connect With Me:
-📫 Feel free to reach me through my LinkedIn profile or on my Portfolio website.
+📫 Feel free to reach me through my LinkedIn profile or my Portfolio website.
  ### [Medium Blog](https://medium.com/@MMA611)  |  [LinkedIn](https://uk.linkedin.com/in/mohamed-mohamed-ahmed-b711a7127) | [Portfolio](https://mmaengtech.wixsite.com/mmaengtech.)
 
 ## Quote:

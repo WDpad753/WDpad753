@@ -6,9 +6,9 @@
 <img align="right" width="250" height="250" src="https://static.wixstatic.com/media/69e010_8487b18c01744d67b7538514b00252f3~mv2.gif"></a>
 ## Introduction:
 - 👋 Hi, I’m @WDpad753.
-- 👀 I’m interested in learning new programming languages and to be involved in challenging and interesting projects.
-- 🌱 I’m currently learning programming languages that are used for web design.
-- 💞️ I’m looking to collaborate and working in various, multidisciplinary and challenging projects.
+- 👀 I’m interested in learning new programming languages and being involved in challenging and interesting projects.
+- 🌱 I’m currently learning programming languages that are used for web design and am interested to learn more about data science.
+- 💞️ I’m looking to collaborate and work on various, multidisciplinary and challenging projects.
 
 ## Connect With Me:
 📫 Feel free to reach me through my LinkedIn profile or my Portfolio website.

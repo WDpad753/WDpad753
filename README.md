@@ -12,7 +12,10 @@
 
 ## Connect With Me:
 📫 Feel free to reach me through my LinkedIn profile or my Portfolio website.
- ### [Medium Blog](https://medium.com/@MMA611)  |  [LinkedIn](https://uk.linkedin.com/in/mohamed-mohamed-ahmed-b711a7127) | [Portfolio](https://mmaengtech.wixsite.com/mmaengtech.)
+
+<a href="https://uk.linkedin.com/in/mohamed-mohamed-ahmed-b711a7127"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a href="https://www.kaggle.com/mma115"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+
+ ### [Medium Blog](https://medium.com/@MMA611)  |  [LinkedIn](https://uk.linkedin.com/in/mohamed-mohamed-ahmed-b711a7127) | [Portfolio](https://mmaengtech.wixsite.com/mmaengtech.) | [Kaggle](https://www.kaggle.com/mma115)
 
 ## Quote:
 | The will to win, desire to succeed, urge to reach your full potential………These are the keys that will unlock the door to personal excellence | <img align="right" width="1270" height="300" src="https://user-images.githubusercontent.com/66917039/193830489-d537d305-5275-4c0a-bd45-f0eb156109ce.png">  |
@@ -26,6 +29,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WDpad753&layout=compact)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=WDpad753&theme=discord)
+
+
+## Github Repos Shortcut:
+![Github Repos](https://gists-readme.yizack.com/api?user=WDpad753)
+
 
 <!---
 WDpad753/WDpad753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

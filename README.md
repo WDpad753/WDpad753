@@ -37,6 +37,9 @@
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
 <img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white">
+<img src="https://img.shields.io/badge/Dev C++-00599?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/LabVIEW-FFDB00.svg?style=for-the-badge&logo=LabVIEW&logoColor=black">
+<img width="85" height="50" src="https://user-images.githubusercontent.com/66917039/199511700-f34398b5-d703-420e-9071-4cd46177ee88.png">
 
 ### 👩‍💻 Programming Languages:
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">

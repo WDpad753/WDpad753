@@ -32,7 +32,7 @@
 
 ## <img width="90" height="60" src="https://user-images.githubusercontent.com/66917039/199518739-15cb0cb2-f621-4d55-abd8-5975fbe57191.gif"> Technical skills and experiences:
 
-### 👩‍💻 IDE:
+### 👨‍💻 IDE:
 <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/LabVIEW-FFDB00.svg?style=for-the-badge&logo=LabVIEW&logoColor=black">
 <img width="85" height="50" src="https://user-images.githubusercontent.com/66917039/199511700-f34398b5-d703-420e-9071-4cd46177ee88.png">
 
-### 👩‍💻 Programming Languages:
+### 👨‍💻 Programming Languages:
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">

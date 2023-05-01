@@ -15,7 +15,13 @@
 ## 🔗 Connect With Me:
 📫 Feel free to reach me through my LinkedIn profile or my Portfolio website:
 
-<a href="https://medium.com/@MMA611"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> <a href="https://uk.linkedin.com/in/mohamed-mohamed-ahmed-b711a7127"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://mmaengtech.wixsite.com/mmaengtech"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a> <a href="https://www.kaggle.com/mma115"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+<a href="https://medium.com/@MMA611"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> 
+<a href="https://uk.linkedin.com/in/mohamed-mohamed-ahmed-b711a7127"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://mmaengtech.wixsite.com/mmaengtech"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a> 
+<a href="https://www.kaggle.com/mma115"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+<a href="https://www.kaggle.com/mma115"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+<a href="https://surrey.academia.edu/MohamedMohamedAhmed"><img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black"></a>
+
 
 ## 💭 Quote:
 | The will to win, desire to succeed, urge to reach your full potential………These are the keys that will unlock the door to personal excellence | <img align="right" width="1270" height="300" src="https://user-images.githubusercontent.com/66917039/193830489-d537d305-5275-4c0a-bd45-f0eb156109ce.png">  |
@@ -40,6 +46,8 @@
 <img src="https://img.shields.io/badge/Dev C++-00599?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/LabVIEW-FFDB00.svg?style=for-the-badge&logo=LabVIEW&logoColor=black">
 <img width="85" height="50" src="https://user-images.githubusercontent.com/66917039/199511700-f34398b5-d703-420e-9071-4cd46177ee88.png">
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 
 ### 👨‍💻 Programming Languages:
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">

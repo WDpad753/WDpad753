@@ -47,7 +47,6 @@
 <img src="https://img.shields.io/badge/LabVIEW-FFDB00.svg?style=for-the-badge&logo=LabVIEW&logoColor=black">
 <img width="85" height="50" src="https://user-images.githubusercontent.com/66917039/199511700-f34398b5-d703-420e-9071-4cd46177ee88.png">
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 
 ### 👨‍💻 Programming Languages:
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">

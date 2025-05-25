@@ -55,6 +55,7 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/LabVIEW-FFDB00.svg?style=for-the-badge&logo=LabVIEW&logoColor=black">
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">
 <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
 <img width="85" height="50" src="https://user-images.githubusercontent.com/66917039/199511700-f34398b5-d703-420e-9071-4cd46177ee88.png">
 

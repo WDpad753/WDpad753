@@ -9,7 +9,7 @@
 ## <img width="35" height="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> Introduction:
 - 👋 Hi, I’m @WDpad753.
 - 👀 I’m interested in learning new programming languages and being involved in challenging and interesting projects.
-- 🌱 I’m currently learning programming languages that are used for web design and am interested to learn more about data science.
+- 🌱 I’m currently learning programming languages that are used for web design and software applications and am interested to learn more about data science.
 - 💞️ I’m looking to collaborate and work on various, multidisciplinary and challenging projects.
 
 ## 🔗 Connect With Me:

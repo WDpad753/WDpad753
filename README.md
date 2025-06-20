@@ -30,7 +30,7 @@
 ## <img width="35" height="35" src="https://user-images.githubusercontent.com/66917039/199515825-9e7358dd-63ad-46cf-abaa-a7fc6009416d.png"> GitHub Stats and programming languages:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=WDpad753&theme=gradient&show_icons=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=WDpad753)
+[![GitHub Streak](https://streak-stats.demolab.com?user=WDpad753&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WDpad753&layout=compact)
 

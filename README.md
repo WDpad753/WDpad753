@@ -3,14 +3,15 @@
 </p>
 
 
-<img align="right" width="250" height="250" src="https://static.wixstatic.com/media/69e010_8487b18c01744d67b7538514b00252f3~mv2.gif"></a>
-
-
 ## <img width="35" height="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> Introduction:
+<img align="right" width="250" height="250" src="https://static.wixstatic.com/media/69e010_8487b18c01744d67b7538514b00252f3~mv2.gif"></a>
 - 👋 Hi, I’m @WDpad753.
 - 👀 I’m interested in learning new programming languages and being involved in challenging and interesting projects.
 - 🌱 I’m currently learning programming languages that are used for web design and software applications and am interested to learn more about data science.
 - 💞️ I’m looking to collaborate and work on various, multidisciplinary and challenging projects.
+
+&nbsp;<br><br>
+&nbsp;<br><br>
 
 ## 🔗 Connect With Me:
 📫 Feel free to reach me through my LinkedIn profile or my Portfolio website:
@@ -21,7 +22,6 @@
 <a href="https://www.kaggle.com/mma115"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 <a href="https://www.kaggle.com/mma115"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 <a href="https://surrey.academia.edu/MohamedMohamedAhmed"><img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black"></a>
-
 
 ## 💭 Quote:
 | The will to win, desire to succeed, urge to reach your full potential………These are the keys that will unlock the door to personal excellence | <img align="right" width="1270" height="300" src="https://user-images.githubusercontent.com/66917039/193830489-d537d305-5275-4c0a-bd45-f0eb156109ce.png">  |
